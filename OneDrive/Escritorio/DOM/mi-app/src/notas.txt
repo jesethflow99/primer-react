@@ -1,0 +1,9 @@
+<div className="contenedor-testimonio">
+            <img className="imagen-testimonio" src={require('../imagenes/R.jpeg')} alt="foto emma watson" />
+            
+            <div className="contenedor-texto-testimonio">
+                <p className="nombre-testimonio">Emma Whatson</p>
+                <p className="cargo-testimonio">Actriz</p>
+                <p className="texto-testimonio">Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque perferendis placeat et tenetur exercitationem adipisci atque dolore maxime repudiandae consectetur, excepturi fugiat, blanditiis minus. Quis iusto necessitatibus mollitia quibusdam autem.</p>
+            <div/>
+        </div>
